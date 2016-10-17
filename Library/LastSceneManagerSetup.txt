@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/CrazyLabyrinth/Scenes/CrazyLabyrinth.unity
+  isLoaded: 1
+  isActive: 1
